@@ -1,4 +1,4 @@
-# Dynamic SQL Query API
+git push --set-upstream origin main# Dynamic SQL Query API
 
 This project provides a REST API for dynamically generating and executing SQL queries based on user inputs. The API allows users to query specific tables, select columns, apply filters (WHERE clauses), and sort results. It includes input validation, SQL injection protection, and pagination for large datasets.
 
